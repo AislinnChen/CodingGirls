@@ -1,1 +1,1 @@
-# PrettyGirlsCode
+# CodingGirls
